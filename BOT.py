@@ -8,7 +8,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 import sys
 sys.path.insert(0, '../')
  
- 
+ #тест гитхаб
 #login, password='login','password'
 # vk_session = vk_api.VkApi(login, password)
 # vk_session.auth()
